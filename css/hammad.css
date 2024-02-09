@@ -1,0 +1,110 @@
+h1{
+    text-align: center;
+    color: orange;
+    cursor: pointer;
+}
+body{
+    background-image: url(https://i.pinimg.com/736x/ac/09/c7/ac09c730500a4df67ceb63e35cd103fd.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgb(247, 247, 84);
+}
+.nav{
+    background-color:rgb(207, 122, 11);
+    color: aliceblue;
+}
+.nav a:nth-child(1) {
+    color: red !important;
+}
+.nav a:nth-child(2) {
+    color: black !important;
+}
+
+.hammadFavourite li:nth-child(4){
+    color: red !important;
+}
+.custom-tooltip {
+    --bs-tooltip-bg: var(--bd-violet-bg);
+    --bs-tooltip-color: var(--bs-white);
+  }
+h5{
+    cursor: pointer;
+}
+.card {
+    margin-top: 3cap;
+    margin-left: 20cap;
+    margin-right: 20cap;
+    background-color: rgb(134, 218, 190);
+}
+.card-header {
+    background-color: orange;
+}
+select{
+    cursor: pointer;
+}
+.button{
+    width: 300px;
+    margin-left: 30cap;
+}
+.nav2{
+    margin-top: 7cap;
+    background-color: rgb(20, 20, 32) !important;
+}
+.h6{
+    color: white;
+   font-weight: 400;
+   font-size: smaller;
+   
+}
+.main1{
+    color: white;
+    font-weight: 400;
+    font-size: smaller;
+    margin-top: 2cap;
+}
+.main2{
+    color: white;
+    font-weight: 400;
+    font-size: smaller;
+    margin-left: -8cap;
+    margin-top: 2cap;
+}
+.main{
+    color: white;
+    font-weight: 400;
+    font-size: smaller;
+    margin-left: 10cap;
+    margin-right: 50cap;
+    margin-top: 2cap;
+}
+.hd{
+    color: white;
+   font-weight: 400;
+   font-size: smaller;
+   margin-left: -15cap;
+   margin-top: 2cap;
+}
+.hammad1{
+   font-size: smaller;
+   margin-left: 8cap;
+   margin-bottom: -1cap;
+   color: gray;
+}
+.hammad2{
+    font-size: smaller;
+    margin-left: -1cap;
+   margin-bottom: -1cap;
+   color: gray;
+ }
+.hammad3{
+    font-size: smaller;
+    margin-left: -10cap;
+   margin-bottom: -1cap;
+   color: gray;
+ }
+.hammad4{
+    font-size: smaller;
+    margin-left: -15cap;
+   margin-bottom: -1cap;
+   color: gray;
+ }

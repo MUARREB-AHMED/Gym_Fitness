@@ -1,0 +1,13 @@
+body{
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/776/369/157/muscles-pose-workout-dumbbell-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card{
+    margin-top: 5cap;
+    margin-left: 30cap;
+    margin-right: 30cap;
+}
+.button1{
+    float: right;
+}
